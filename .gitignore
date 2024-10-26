@@ -7,3 +7,5 @@ test.py
 .ipynb_checkpoints/
 processed/
 __pycache__
+pickles/
+logits.npy
